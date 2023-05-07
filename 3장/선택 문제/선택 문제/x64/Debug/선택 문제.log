@@ -1,0 +1,4 @@
+﻿  선택 문제.c
+C:\Users\wngud\OneDrive\바탕 화면\알고리즘 과제\알고리즘 3장 조별과제\선택 문제\선택 문제\선택 문제.c(51): warning C4715: 'Selection': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\wngud\OneDrive\바탕 화면\알고리즘 과제\알고리즘 3장 조별과제\선택 문제\선택 문제\선택 문제.c(17): warning C4715: 'medians': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  선택 문제.vcxproj -> C:\Users\wngud\OneDrive\바탕 화면\알고리즘 과제\알고리즘 3장 조별과제\선택 문제\x64\Debug\선택 문제.exe
