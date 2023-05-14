@@ -1,4 +1,0 @@
-﻿  test.c
-C:\Users\wngud\OneDrive\바탕 화면\알고리즘 과제\트리\트리\test.c(19,2): warning C4013: 'findNode'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\wngud\OneDrive\바탕 화면\알고리즘 과제\트리\트리\test.c(40): warning C4716: 'test': 값을 반환해야 합니다.
-  트리.vcxproj -> C:\Users\wngud\OneDrive\바탕 화면\알고리즘 과제\트리\x64\Debug\트리.exe
